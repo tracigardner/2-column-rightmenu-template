@@ -1,3 +1,4 @@
+/* original stylesheet from quackit */
   body {
     margin:0;
     padding:0;
@@ -8,6 +9,7 @@
   header {
     background: #ccc;
     height: 100px;
+    /* background-image: url("put-link-to-image-here"); */
   }
 
   header h1 {
@@ -35,7 +37,6 @@
     clear: left;
     width: 100%;
     background: #ccc;
-    text-align: center;
     padding: 4px 0;
   }
 
@@ -65,4 +66,15 @@
   nav ul a {
     color: darkgreen;
     text-decoration: none;
+  }
+
+  /* Additions to support the external */
+  /* iframe files */
+  .site-header {
+    margin: 0;
+    padding-top: 15px;
+    font-family: Sans-Serif;
+  }
+  .site-footer{
+    text-align: center;
   }
