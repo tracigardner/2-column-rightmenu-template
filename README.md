@@ -1,9 +1,8 @@
 # 2-column-template
 Basic HTML/CSS template with header, wide content column on the left, menu on the right, and a footer.
 
-
 ## Site Demo
-[http://github.tracigardner.com/2-column-template](http://github.tracigardner.com/2-column-template)
+[http://github.tracigardner.com/2-column-rightmenu-template](http://github.tracigardner.com/2-column-rightmenu-template)
 
 ## Using This Template
 * Clone this repository to your GitHub Desktop application, changing its name to something relevant for your project. For instance, if your project is about visiting the Biltmore in Asheville, North Carolina, you might use the name _Biltmore_ for your copy of the repository.
